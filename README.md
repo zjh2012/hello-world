@@ -1,2 +1,2 @@
 # hello-world
-For testing
+Hello everyone! This is a test project of a rookie of the Github.
